@@ -13,7 +13,7 @@ export const config = {
     download: "https://download1529.mediafire.com/6b6ym5j7rarg18wscONuidebP371dbfhat_fR7usVQHuT00bSy8rHY5Ix4ebGAtjKX_4kNbMlxDtvtfluMERf559advcTeaj9q4cPDVmJ6E-3Wapdg5fxWx-_5FXcJuGmrt-9shU6y7ssWXrk4MXzCaqip9u3F_K2OK8H7ITXwX5VWYk/2ua7xqksibmw6j6/Agro+Vision.apk",
   },
   whatsapp_messages: {
-    general: "Olá, gostaria de saber mais sobre o AgroVision.",
+    general: "Olá, gostaria de saber mais sobre o AgroVision..",
     specialist: "Olá, gostaria de falar com um especialista sobre o AgroVision.",
     monthly_plan: "Olá, gostaria de assinar o plano mensal do AgroVision",
     annual_plan: "Olá, gostaria de assinar o plano anual do AgroVision",
